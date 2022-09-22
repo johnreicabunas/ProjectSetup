@@ -1,4 +1,4 @@
-package com.johnreicabunas.myapplication
+package com.johnreicabunas.projectsetup
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
